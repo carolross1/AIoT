@@ -21,15 +21,30 @@ https://drive.google.com/file/d/1g0J3xsvrvdXB3MC2KieNeY3OK-SDnYYH/view?usp=shari
 
 
 ## Ejercicio 2
-Diagrama -
-Código - 
-Video -
+Diagrama - https://drive.google.com/file/d/1IE8lebAoy-dmdwwcuT7mb5O7BVzIAfR0/view?usp=sharing
+
+Código -  https://drive.google.com/file/d/1aUBkuCHVReAkRmKzQ3k_SawN-AkJlo3e/view?usp=sharing
+
+Video - https://drive.google.com/file/d/1fmfc671ME6qLBjXbHEXiyK3B6szKCpP9/view?usp=sharing
 
 
+## INDIVIDUAL
+## CRUD en PostgreSQL
+Video - https://drive.google.com/file/d/1gDoHpGuIXFYNiPX1H6QHF4JT-KzNc13l/view?usp=sharing
+## Instalaciones y Configuraciones Básicas
+Video - https://drive.google.com/file/d/1fu751p4voMyizGfYy7Pb-0k0HNgKy89H/view?usp=sharing
+## LED y Botón con Raspberry Pi
+Video - https://drive.google.com/file/d/1gOKPpCjAsIx_9tq60HOSv4Rl4rQUppG2/view?usp=sharing
+## Conexión MQTT en Node-RED
+Video - https://drive.google.com/file/d/1gCdmRRyGsvqxIDz7jiOsC7aqAe4JjV1j/view?usp=sharing
+https://drive.google.com/file/d/1g-jQD3r9UytJbkyN5JGWOp7ZQ5O0m0iu/view?usp=sharing
 
 
-
-
+## Soldadura
+## Ejercicio 3 : Circuito funcional en placa fenólica
+Fotografía - https://drive.google.com/file/d/1yi5MZxSC-yzux2kMgnhms1k1dvvLgDhT/view?usp=sharing
+## Ejercicio 4 : Figura 2D soldada
+Fotografía - https://drive.google.com/file/d/1eiWFzd4v-0q8HQmme440wNuN2t1WxnA3/view?usp=sharing
 
 
 
