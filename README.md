@@ -5,7 +5,7 @@
 |-Granados Estrada Cynthia Janeth|
 ## --------------------------------------------------------------------------------------------------------
 
-## NetAcad Python Fundamentals 2
+## NetAcad Python Fundamentals 2 --Carol Guadalupe Rios Rios
 
 <img src="https://github.com/user-attachments/assets/32d71060-8593-43fb-9589-e07bcd4f199e" width="200">
 <img src="https://github.com/user-attachments/assets/7cbf0830-aca0-402b-bc44-94f6510dc5a6" width="200">
@@ -13,6 +13,8 @@
 <img src="https://github.com/user-attachments/assets/c9658387-c029-46dc-819c-fad2f98d1dec" width="200">
 <img src="https://github.com/user-attachments/assets/39cc6021-d502-49b9-9db3-eff199e04b64" width="200">
 
+## --------------------------------------------------------------------------------------------------------
+## NetAcad Python Fundamentals 2 --Cynthia Janeth Granados Estrada
 ## --------------------------------------------------------------------------------------------------------
 
 ## PARTE PRÁCTICA (PAREJAS)
@@ -46,16 +48,16 @@ https://drive.google.com/file/d/1g-jQD3r9UytJbkyN5JGWOp7ZQ5O0m0iu/view?usp=shari
 
 ## --------------------------------------------------------------------------------------------------------
 
-## Soldadura 
-## Ejercicio 3 : Circuito funcional en placa fenólica --Carol Guadalupe Rios Rios
+## Soldadura --Carol Guadalupe Rios Rios
+## Ejercicio 3 : Circuito funcional en placa fenólica 
 Fotografía - https://drive.google.com/file/d/1yi5MZxSC-yzux2kMgnhms1k1dvvLgDhT/view?usp=sharing
-## Ejercicio 4 : Figura 2D soldada --Carol Guadalupe Rios Rios
+## Ejercicio 4 : Figura 2D soldada
 Fotografía - https://drive.google.com/file/d/1eiWFzd4v-0q8HQmme440wNuN2t1WxnA3/view?usp=sharing
+## --------------------------------------------------------------------------------------------------------
 
-
-
-
-
+## Soldadura --Cynthia Janeth Granados Estrada
+## Ejercicio 3 : Circuito funcional en placa fenólica
+## Ejercicio 4 : Figura 2D soldada
 
 
 
