@@ -15,6 +15,13 @@
 
 ## --------------------------------------------------------------------------------------------------------
 ## NetAcad Python Fundamentals 2 --Cynthia Janeth Granados Estrada
+
+<img src="https://github.com/user-attachments/assets/102d308c-ccea-495b-b5b1-5fb23edf5624" width="200">
+<img src="https://github.com/user-attachments/assets/6d441956-47a2-4bc0-9684-bd990f48de2d" width="200">
+<img src="https://github.com/user-attachments/assets/5f7beb58-46bd-4850-bc13-24059a8decb4" width="200">
+<img src="https://github.com/user-attachments/assets/88ab1dfc-f7af-488a-ac64-fabb0b9bcef1" width="200">
+<img src="https://github.com/user-attachments/assets/14823195-dbe1-49ae-b8bd-2c7a4e2a09e2" width="200">
+
 ## --------------------------------------------------------------------------------------------------------
 
 ## PARTE PRÁCTICA (PAREJAS)
@@ -47,6 +54,17 @@ Video - https://drive.google.com/file/d/1gCdmRRyGsvqxIDz7jiOsC7aqAe4JjV1j/view?u
 https://drive.google.com/file/d/1g-jQD3r9UytJbkyN5JGWOp7ZQ5O0m0iu/view?usp=sharing
 
 ## --------------------------------------------------------------------------------------------------------
+## INDIVIDUAL --Cynthia Janeth Granados Estrada
+## CRUD en PostgreSQL
+Video - https://drive.google.com/file/d/1-9U5YEF95hrQLvARixvXdT4LtJFqVlQL/view?usp=drive_link
+## Instalaciones y Configuraciones Básicas
+Video - https://drive.google.com/file/d/1-3sIfM1kTB_lRzoX2Di3OM0VRttzaftD/view?usp=drive_link
+## LED y Botón con Raspberry Pi
+Video - https://drive.google.com/file/d/1gOKPpCjAsIx_9tq60HOSv4Rl4rQUppG2/view?usp=sharing
+## Conexión MQTT en Node-RED
+Video - https://drive.google.com/file/d/1-5YAYHPjucPEw6pJlqUu4Me2TkpVFWpM/view?usp=drive_link
+
+## --------------------------------------------------------------------------------------------------------
 
 ## Soldadura --Carol Guadalupe Rios Rios
 ## Ejercicio 3 : Circuito funcional en placa fenólica 
@@ -56,16 +74,6 @@ Fotografía - https://drive.google.com/file/d/1eiWFzd4v-0q8HQmme440wNuN2t1WxnA3/
 ## --------------------------------------------------------------------------------------------------------
 
 ## Soldadura --Cynthia Janeth Granados Estrada
-## Ejercicio 3 : Circuito funcional en placa fenólica
-## Ejercicio 4 : Figura 2D soldada
-
-
-
-
-
-
-
-
-
-
-
+## Ejercicio 3 : Circuito funcional en placa fenólica 
+Fotografía - https://drive.google.com/drive/folders/1GrcsORAdNbWbTMuqNAa34O0Db_JvjOFH?usp=drive_link
+## --------------------------------------------------------------------------------------------------------
