@@ -6,11 +6,13 @@
 ## --------------------------------------------------------------------------------------------------------
 
 ## NetAcad Python Fundamentals 2
-![Imagen de WhatsApp 2025-02-10 a las 10 26 01_0d077088](https://github.com/user-attachments/assets/32d71060-8593-43fb-9589-e07bcd4f199e)
-![Imagen de WhatsApp 2025-02-10 a las 10 26 49_54fed84f](https://github.com/user-attachments/assets/7cbf0830-aca0-402b-bc44-94f6510dc5a6)
-![image](https://github.com/user-attachments/assets/8b0f0ae5-69ed-4764-bdc8-bff2e17d2036)
-![Imagen de WhatsApp 2025-02-10 a las 10 27 52_b0e43749](https://github.com/user-attachments/assets/c9658387-c029-46dc-819c-fad2f98d1dec)
-![Imagen de WhatsApp 2025-02-10 a las 10 28 29_920723de](https://github.com/user-attachments/assets/39cc6021-d502-49b9-9db3-eff199e04b64)
+
+<img src="https://github.com/user-attachments/assets/32d71060-8593-43fb-9589-e07bcd4f199e" width="200">
+<img src="https://github.com/user-attachments/assets/7cbf0830-aca0-402b-bc44-94f6510dc5a6" width="200">
+<img src="https://github.com/user-attachments/assets/8b0f0ae5-69ed-4764-bdc8-bff2e17d2036" width="200">
+<img src="https://github.com/user-attachments/assets/c9658387-c029-46dc-819c-fad2f98d1dec" width="200">
+<img src="https://github.com/user-attachments/assets/39cc6021-d502-49b9-9db3-eff199e04b64" width="200">
+
 ## --------------------------------------------------------------------------------------------------------
 
 ## PARTE PRÁCTICA (PAREJAS)
@@ -31,7 +33,7 @@ Código -  https://drive.google.com/file/d/1aUBkuCHVReAkRmKzQ3k_SawN-AkJlo3e/vie
 Video - https://drive.google.com/file/d/1fmfc671ME6qLBjXbHEXiyK3B6szKCpP9/view?usp=sharing
 
 ## --------------------------------------------------------------------------------------------------------
-## INDIVIDUAL
+## INDIVIDUAL --Carol Guadalupe Rios Rios
 ## CRUD en PostgreSQL
 Video - https://drive.google.com/file/d/1gDoHpGuIXFYNiPX1H6QHF4JT-KzNc13l/view?usp=sharing
 ## Instalaciones y Configuraciones Básicas
@@ -44,10 +46,10 @@ https://drive.google.com/file/d/1g-jQD3r9UytJbkyN5JGWOp7ZQ5O0m0iu/view?usp=shari
 
 ## --------------------------------------------------------------------------------------------------------
 
-## Soldadura
-## Ejercicio 3 : Circuito funcional en placa fenólica
+## Soldadura 
+## Ejercicio 3 : Circuito funcional en placa fenólica --Carol Guadalupe Rios Rios
 Fotografía - https://drive.google.com/file/d/1yi5MZxSC-yzux2kMgnhms1k1dvvLgDhT/view?usp=sharing
-## Ejercicio 4 : Figura 2D soldada
+## Ejercicio 4 : Figura 2D soldada --Carol Guadalupe Rios Rios
 Fotografía - https://drive.google.com/file/d/1eiWFzd4v-0q8HQmme440wNuN2t1WxnA3/view?usp=sharing
 
 
