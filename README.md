@@ -16,6 +16,12 @@
 ## --------------------------------------------------------------------------------------------------------
 ## NetAcad Python Fundamentals 2 --Cynthia Janeth Granados Estrada
 ## --------------------------------------------------------------------------------------------------------
+<img src="https://github.com/user-attachments/assets/34c2f22d-7926-4dc2-aa91-deeebd3e8f72" width="200">
+<img src="https://github.com/user-attachments/assets/1e904829-8ce4-429e-9c96-b7343cb774a4" width="200">
+<img src="https://github.com/user-attachments/assets/9fb83e31-4ce9-426b-bacc-d6af5a0f2f1b" width="200">
+<img src="https://github.com/user-attachments/assets/a427cefd-bd08-4ad8-84c8-12304fc5a66b" width="200">
+<img src="https://github.com/user-attachments/assets/87f933ec-f485-4965-9c7c-f6014d0aee36" width="200">
+
 
 ## PARTE PRÁCTICA (PAREJAS)
 ## Ejercicio 1
